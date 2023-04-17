@@ -32,9 +32,11 @@ education:
 fields_of_interests:
   [
     "Web Development",
+    "App Development",
     "Data Science",
     "Machine Learning",
     "UI/UX",
+    
     
   ]
 ```
