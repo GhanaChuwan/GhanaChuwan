@@ -19,8 +19,8 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-
-name: Ghana CHuwan
+```yam1
+name: Ghana Chuwan
 located_in: Erie, PA | United States
 current_job: Full Stack Developer
 education:
@@ -37,7 +37,7 @@ fields_of_interests:
     "UI/UX",
     
   ]
-
+```
   
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
