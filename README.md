@@ -19,14 +19,14 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-```yaml
-name: Yuba Neupane
-located_in: Pittsburgh, PA | United States
+
+name: Ghana CHuwan
+located_in: Erie, PA | United States
 current_job: Full Stack Developer
 education:
   [
-    "Bachelor's in Software Enginnering",
-    "Minor in Game Development",
+    "Bachelor's in Computer Science",
+   
   ]
 
 fields_of_interests:
@@ -35,21 +35,10 @@ fields_of_interests:
     "Data Science",
     "Machine Learning",
     "UI/UX",
-    "Game Development",
-    "DevOps",
+    
   ]
-technical_background:
-  [
-    "Intern - PNC Bank",
-    "Intern - BotsIQ PA",
-  ]
+
   
-currently_learning: ["Docker, Kubernetes and Rust"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
-```
-  
----  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -68,8 +57,6 @@ hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
@@ -77,5 +64,4 @@ hobbies: ["Gaming", "Cinema", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
----
 
