@@ -22,7 +22,7 @@
 ```yam1
 name: Ghana Chuwan
 located_in: Erie, PA | United States
-current_job: Full Stack Developer
+current_job: Software Developer
 education:
   [
     "Bachelor's in Computer Science",
